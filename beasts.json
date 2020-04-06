@@ -38,7 +38,7 @@
         },
         {
             "name": "Constrictor Snake",
-            "size": "large",
+            "size": "Large",
             "ac": 12,
             "hp": 13,
             "walk": 30,
@@ -164,7 +164,7 @@
         },
         {
             "name": "Giant Centipede",
-            "size": "small",
+            "size": "Small",
             "ac": 13,
             "hp": 4,
             "walk": 30,
@@ -834,7 +834,7 @@
         },
         {
             "name": "Troodon (dinosaur)",
-            "size": "small",
+            "size": "Small",
             "ac": 13,
             "hp": 22,
             "walk": 30,
